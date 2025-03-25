@@ -14,6 +14,12 @@ I'm a 20-year-old developer based in London, and I'm passionate about software d
 
 **Others:**  `Scrum` `Confluence` `Jira`
 
+## 🚀 Featured Projects
+
+- 🎮 [**Robot-Football-Simulator**](https://github.com/Weszybz/Robot-Football-Simulator) — A fun and interactive robot football simulator.
+- 🐍 [**JavaFX-Snake-Game**](https://github.com/Weszybz/JavaFX-Snake-Game) — Classic Snake game implemented in JavaFX with smooth controls.
+- ⚽ [**Premier-League-Interactive-NLP**](https://github.com/Weszybz/Premier-League-Interactive-NLP) — NLP-powered Premier League project with interactive features.
+
 ## ✨ Fun Facts 
 
 - Love watching Star Wars.
